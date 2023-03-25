@@ -19,7 +19,7 @@ p {
 .top-container{
     background-color:E3FDFD;
     position: relative;
-    padding-top: 15%;
+    padding-top: 7.5%;
 }
 .middle-container1{
 background-color: CBF1F5;
@@ -31,20 +31,20 @@ padding-bottom: 15%;
 .middle-container2{
     background-color:CBF1F5;
     position: relative;
-    padding-bottom: 200px;
+    padding-bottom: 20%;
 }
 .bottom-container1{
     background-color: A6E3E9;
     position: relative;
-    padding-top: 100px;
-    padding-bottom: 300px;
+    padding-top: 15%;
+    padding-bottom: 15%;
 
 
 }
 .bottom-container2{
     background-color:71C9CE;
     position: relative;
-    padding-top: 200px;
+    padding-top: 15%;
 
 }
 .moution1{
@@ -61,23 +61,23 @@ padding-bottom: 15%;
 }
 .top-cloud{
     position: absolute;
-    bottom: 400px;
+    bottom: 50%;
 }
 .bottom-cloud{
     position: absolute;
-    bottom: 350px;
-    left: 500px;
+    bottom: 45%;
+    left: 25%;
 }
 .top-middle{
     position: absolute;
-    left:300px;
+    left:15%;
 }
 .middle-middle{
     position:absolute;
-    right:100px;
+    right:10%;
     
 }
 .women{
     position: absolute;
-    left:100px;
+    left:7%;
 }
