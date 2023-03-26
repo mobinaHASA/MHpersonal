@@ -1,50 +1,62 @@
 body {
-    margin: 0px;
+    margin: 0;
     padding: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
 }
+hr{
+    border-color: gray;
+    border-top-style: dotted;
+    width: 5%;
+    height:0;
+    border-width: 5px;
+    background-color: none;
+    border-bottom-style: none;
+
+}
 h1{
-    margin-top: 0 auto 0 auto;
+    margin-top: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
+    font-size: 3.600rem;
+    color: F67280;
+    font-weight: normal;
+    line-height: 1;
 }
 p {
     font-family: 'Sacramento', cursive;
+    font-size:1.25rem;
+    padding-bottom: 5%;
 }
 .top-container{
     background-color:E3FDFD;
     position: relative;
-    padding-top: 100px;
+    padding-top: 7.5%;
 }
 .middle-container1{
 background-color: CBF1F5;
 position: relative;
-padding-top:100px ;
-padding-bottom: 100px;
+padding-top:15% ;
+padding-bottom: 5%;
 
 }
-.middle-container2{
-    background-color:CBF1F5;
-    position: relative;
-    padding-bottom: 200px;
-}
+
 .bottom-container1{
-    background-color: A6E3E9;
+    background-color: CBF1F5;
     position: relative;
-    padding-top: 100px;
-    padding-bottom: 300px;
+    padding-top: 15%;
+    padding-bottom: 15%;
 
 
 }
 .bottom-container2{
     background-color:71C9CE;
     position: relative;
-    padding-top: 200px;
+    padding-top: 5%;
 
 }
 .moution1{
     position: relative;
-    left: 150px;
+    left: 10%;
 }
 .moution10{
     position: absolute;
@@ -52,27 +64,52 @@ padding-bottom: 100px;
 }
 .moution2{
     position:absolute;
-    left:1200px;
+    left:80%;
 }
 .top-cloud{
     position: absolute;
-    bottom: 400px;
+    bottom: 50%;
 }
 .bottom-cloud{
     position: absolute;
-    bottom: 350px;
-    left: 500px;
+    bottom: 45%;
+    left: 25%;
 }
 .top-middle{
     position: absolute;
-    left:300px;
+    left:2%;
+    width: 25%;
+    float: left;
+    margin-right:20px;
 }
 .middle-middle{
     position:absolute;
-    right:100px;
+    right:10%;
     
 }
 .women{
     position: absolute;
-    left:100px;
+    left:7%;
 }
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 30px;
+    background: #add934;
+    padding: 10px 13px 6px 12px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #08ebf7;
+    text-decoration: none;
+  }
+  .family{
+    color:white;
+  }
+  .family:hover{
+    color: darkorchid;
+  }
